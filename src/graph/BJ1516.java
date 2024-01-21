@@ -36,7 +36,7 @@ public class BJ1516 {
 				} else {
 					B[required].next.add(i);
 					B[i].indegree++;
-				}				
+				}
 			}
 		}
 		
@@ -58,9 +58,6 @@ public class BJ1516 {
 			}
 		}
 				
-		//for(int i=1; i<=N; i++)
-		//	System.out.println(B[i]);
-		
 		for(int i=1; i<=N; i++)
 			System.out.println(B[i].minReqTime);
 	}
