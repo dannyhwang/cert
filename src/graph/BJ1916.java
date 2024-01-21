@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-import javabasic.Node;
-
 /**
  * 백준 1916
  * Doit 057
