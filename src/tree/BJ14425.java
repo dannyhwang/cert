@@ -44,6 +44,7 @@ public class BJ14425 {
 		}
 		System.out.println(count);
 	}
+	
 }
 
 class tNode {
