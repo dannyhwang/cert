@@ -38,7 +38,7 @@ public class BJ12015 {
         	}
         }
         
-        // 
+        // LIS의 길이가 답 
         System.out.println(lis.size());
 	}
 }
